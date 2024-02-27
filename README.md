@@ -23,7 +23,7 @@
 - SpringConfig
 - MySpringMvcDispatcherServletInitializer.
 
-Для реализации функционала использовались компоненты Spring Framework, такие как MVC, JDBC template , Spring DAO.
+Для реализации функционала использовались компоненты Spring Framework, такие как MVC, JDBC template , Spring DAO, Thymeleaf, HTML. 
 
 Работа с пользователями:
 ------------------
